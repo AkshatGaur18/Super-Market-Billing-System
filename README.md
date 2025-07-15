@@ -47,7 +47,7 @@ Each item has a unique product ID, name, price, and category.
 1. Download or copy the Python file ## 📘 Notebook
 
 You can view the interactive Jupyter Notebook here:  
-[📝 View Supermarket Billing System Notebook](./supermarket_billing_system.ipynb)
+[📝 View Supermarket Billing System Notebook](https://github.com/AkshatGaur18/Super-Market-Billing-System/blob/main/Super%20Market%20Billing%20System.ipynb)
 
 2. Open a terminal or command prompt
 3. Navigate to the directory where the file is saved
